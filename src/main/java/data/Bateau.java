@@ -36,7 +36,7 @@ public class Bateau {
 	 */
 	@Override
 	public String toString() {
-		return "mon bateau est " + nom;
+		return "mon New bateau " + nom;
 	}
 	
 	
